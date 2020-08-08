@@ -1,2 +1,2 @@
 # ReactNativeBoilerplate
-A React Native Boilerplate which shows an example of a counter. It using by default Redux Toolkit and React Native Navigation
+React Native boiler plate that implement a counter example using Redux Toolkit and the Navigation libraries for React Native
